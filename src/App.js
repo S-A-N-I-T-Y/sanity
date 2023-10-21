@@ -1,6 +1,9 @@
-import './App.css';
+
 import { useState, useEffect } from 'react';
 import Moviecard from './MovieCard';
+import './App.css';
+
+
 
 
 const App = () => {
@@ -56,3 +59,5 @@ const App = () => {
 }
 
 export default App;
+
+
